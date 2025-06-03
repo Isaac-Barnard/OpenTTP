@@ -1,0 +1,16 @@
+C:\Users\barnai\source\repos\test3\test3\bin\Debug\test3.exe.config
+C:\Users\barnai\source\repos\test3\test3\bin\Debug\test3.exe
+C:\Users\barnai\source\repos\test3\test3\bin\Debug\test3.pdb
+C:\Users\barnai\source\repos\test3\test3\bin\Debug\test3.xml
+C:\Users\barnai\source\repos\test3\test3\obj\Debug\test3.csproj.AssemblyReference.cache
+C:\Users\barnai\source\repos\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Users\barnai\source\repos\test3\test3\obj\Debug\test3.exe
+C:\Users\barnai\source\repos\test3\test3\obj\Debug\test3.pdb
+C:\Users\isaac\Downloads\testproject\test3\test3\bin\Debug\test3.exe.config
+C:\Users\isaac\Downloads\testproject\test3\test3\bin\Debug\test3.exe
+C:\Users\isaac\Downloads\testproject\test3\test3\bin\Debug\test3.pdb
+C:\Users\isaac\Downloads\testproject\test3\test3\bin\Debug\test3.xml
+C:\Users\isaac\Downloads\testproject\test3\test3\obj\Debug\test3.csproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\testproject\test3\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\testproject\test3\test3\obj\Debug\test3.exe
+C:\Users\isaac\Downloads\testproject\test3\test3\obj\Debug\test3.pdb

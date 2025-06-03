@@ -1,0 +1,1 @@
+This is a little command line game project I coded this January to learn c#. There are vehicles and stations, both which can be customized. You can select the location of a station and see where all curent stations are on the grid map.
